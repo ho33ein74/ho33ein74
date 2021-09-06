@@ -25,7 +25,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+<a href="https://t.me/ho55ein74"><img src="https://img.shields.io/badge/-@ho55ein74-0088CC?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hosseinbeiki//"><img src="https://img.shields.io/badge/-Hossein%20Beiki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://hosseinbeiki.ir"><img src="https://img.shields.io/badge/-hosseinbeiki.ir-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://t.me/ho55ein74"><img src="https://img.shields.io/badge/-@ho55ein74-black?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="mailto:ho33ein.b@gamil.com"><img src="https://img.shields.io/badge/-ho33ein.b@gamil.com-black?style=flat&logo=maildotru&logoColor=white"/></a>
