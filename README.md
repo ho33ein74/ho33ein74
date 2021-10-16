@@ -7,6 +7,17 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=vue-dark" alt="Hossein's GitHub Streak" />
     </a>
 </p>
+
+-----
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ho33ein74">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ho33ein74&layout=compact&langs_count=12&theme=algolia"/>
+</a>
+</p>
  
 ## What else about me?
 
@@ -68,14 +79,3 @@ And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me
 <img src='https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white' alt='GitLabCI' />
 
 </details>
-
------
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ho33ein74">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ho33ein74&layout=compact&langs_count=12&theme=algolia"/>
-</a>
-</p>
