@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=vue-dark" alt="Mahyar's GitHub Streak" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=vue-dark" alt="Hossein's GitHub Streak" />
     </a>
 </p>
  
@@ -19,8 +19,8 @@
 #### You can find me in...
 
 
-<a href="https://t.me/mahyar_bhz"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram' /></a>
-<a href="mailto:mahyarbhz@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' /></a>
+<a href="https://t.me/ho55ein74"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram' /></a>
+<a href="mailto:ho33ein.b@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' /></a>
 <a href="https://discord.com/invite/aHXATxBuAh"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' /></a>
 
 And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me!</a>
