@@ -24,11 +24,9 @@
 <details>
 <summary>Links 🔗</summary>
 <br/>
-<a href="https://open.spotify.com/user/4dacsxdn159mkuupzcpji5h8a?si=48c2b86c310844fd"><img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white' alt='Spotify' /></a>
 <a href="https://twitter.com/CautiousNV"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter'/></a>
 <a href="https://t.me/ho55ein74"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram'/></a>
-<a href="https://www.linkedin.com/in/hosseinbeiki//"><img src="https://img.shields.io/badge/-Hossein%20Beiki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://hosseinbeiki.ir"><img src="https://img.shields.io/badge/-hosseinbeiki.ir-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hosseinbeiki/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ho33ein.b@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' /></a>
 
 #### You can find me in...
