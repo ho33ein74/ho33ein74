@@ -20,18 +20,6 @@ let Mahyar = new Programmer(data);
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=vue-dark" alt="Mahyar's GitHub Streak" />
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=ho33ein74&hide=contribs&theme=vue-dark" alt="Mahyar's GitHub stats" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho33ein74&hide=css&layout=compact&theme=vue-dark" alt="Mahyar's Top Langs" />
-    </a>
-</p>
  
 ## What else about me?
 
