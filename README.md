@@ -2,19 +2,6 @@
 
 *A simple web developer... 🎨*
 
-```javascript
-let data = {
-    bio: "I'm the green sun on the field.",
-    title: "Full Stack Developer",
-    hobbies: ["Coding", "Reading books", "Writing", "Stirring coffee"],
-    langs: ["PHP", "Python", "Javascript", "C"],
-    technologies: {
-        backEnd: ["Laravel", "Node.js", "Express.js"],
-        frontEnd: ["Vue.js", "Nuxt.js"]
-    }
-}
-let Mahyar = new Programmer(data);
-```
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=vue-dark" alt="Mahyar's GitHub Streak" />
