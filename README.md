@@ -14,7 +14,7 @@
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)
-<img src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<img src="(https://github.com/ryo-ma/github-profile-trophy)">
 
 
 <p align="center">
