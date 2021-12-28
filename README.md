@@ -12,8 +12,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)[![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho33ein74&show_icons=true&theme=darcula&line_height=20)](https://github.com/ho33ein74/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ho33ein74&theme=darcula&layout=compact)](https://github.com/ho33ein74/github-readme-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=darcula)](https://git.io/streak-stats)
+![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)[![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&line_height=20)](https://github.com/ho33ein74/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ho33ein74&theme=algolia&layout=compact)](https://github.com/ho33ein74/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=algolia)](https://git.io/streak-stats)
 
 <p align="center">
 <a href="https://github.com/ho33ein74">
