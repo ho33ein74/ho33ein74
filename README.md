@@ -29,12 +29,14 @@
 ## What else about me?
 
 <details>
-<summary>Links 🔗</summary>
+<summary>Social Media 🔗</summary>
 <br/>
 <a href="https://twitter.com/CautiousNV"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter'/></a>
 <a href="https://t.me/ho55ein74"><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram'/></a>
 <a href="https://www.linkedin.com/in/hosseinbeiki/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ho33ein.b@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' /></a>
+
+<a href="https://www.linkedin.com/in/pejmankheyri/"><img align="left" alt="Pejman's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="https://stackoverflow.com/users/2037129/pejman-kheyri"><img align="left" alt="Pejman's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"/></a><a href="mailto:pejmankheyri@gmail.com"><img align="left" alt="Pejman's Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a><a href="https://twitter.com/pejmankheyri"><img align="left" alt="Pejman Kheyri - Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a><a href="https://www.instagram.com/pejmankheyri/"><img align="left" alt="Pejman's Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
 
 #### You can find me in...
 
