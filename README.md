@@ -12,9 +12,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+
 <p align="center">
 <a href="https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true">
-  <img height="180em" src="https://github.com/ryo-ma/github-profile-trophy" />
+  <img height="180em" src="(https://github.com/ryo-ma/github-profile-trophy)" />
 </a>
 </p>
 
