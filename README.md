@@ -13,18 +13,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="(https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15"/>
-</a>
-</p>
-
-![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)
-<img src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
-
-<p align="center">
 <a href="https://github.com/ho33ein74">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ho33ein74&layout=compact&langs_count=12&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+<a href="(https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15"/>
 </a>
 </p>
 
