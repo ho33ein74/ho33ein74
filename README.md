@@ -1,4 +1,10 @@
-# Hello! I'm Hossein Beiki
+<h3 align="center">
+  Hey there, nice to see you here!
+</h3>
+
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=FULLSTACK+DEVELOPER;BUG+BOUNTY+HUNTER;IT+SPECIALIST" /></a>
+</p>
 
 *A simple web developer... 🎨*
 
