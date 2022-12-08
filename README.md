@@ -11,7 +11,6 @@
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=algolia" alt="Hossein's GitHub Streak" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
     </a>
 </p>
 
@@ -22,6 +21,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)
 <img src="(https://github.com/ryo-ma/github-profile-trophy)">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
 
 
 <p align="center">
