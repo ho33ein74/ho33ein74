@@ -12,6 +12,7 @@
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=algolia" alt="Hossein's GitHub Streak" />
         <img src="https://github-readme-stats.vercel.app/api?username=ho33ein74&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
     </a>
 </p>
 
