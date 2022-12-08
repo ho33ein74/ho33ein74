@@ -20,8 +20,10 @@
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)
-<img src="(https://github.com/ryo-ma/github-profile-trophy)">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
+<p align="center">
+  <img src="(https://github.com/ryo-ma/github-profile-trophy)">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
+</p>
 
 
 <p align="center">
