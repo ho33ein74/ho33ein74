@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Hossein+Beiki;I'm+FULLSTACK+DEVELOPER;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
------
-
 ## What else about me?
 
 <details>
@@ -63,6 +61,8 @@ And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me
 <img src='https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white' alt='GitLabCI' />
 
 </details>
+
+-----
 
 ### ⚙️ &nbsp;GitHub Analytics
 
