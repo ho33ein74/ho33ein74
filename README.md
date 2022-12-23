@@ -2,14 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Hossein+Beiki;I'm+FULLSTACK+DEVELOPER;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
-*A simple web developer... 🎨*
-
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=algolia" alt="Hossein's GitHub Streak" />
-    </a>
-</p>
-
 -----
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -18,6 +10,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)
 <p align="center">
   <img src="(https://github.com/ryo-ma/github-profile-trophy)">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=algolia" alt="Hossein's GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
 </p>
 
