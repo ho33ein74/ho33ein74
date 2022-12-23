@@ -1,6 +1,6 @@
-<h3 align="center">
-  Hey there, nice to see you here!
-</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Hossein+Beiki;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+</h1>
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=FULLSTACK+DEVELOPER;BUG+BOUNTY+HUNTER;IT+SPECIALIST" /></a>
