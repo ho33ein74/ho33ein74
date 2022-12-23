@@ -83,7 +83,7 @@ And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me
 
 <p align="center">
     <a href="https://github.com/ho33ein74">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&include_all_commits=true&count_private=false" />
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ho33ein74&layout=compact&langs_count=12&theme=algolia" />
     </a>
 </p>
