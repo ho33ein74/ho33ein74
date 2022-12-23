@@ -4,31 +4,6 @@
 
 -----
 
-### ⚙️ &nbsp;GitHub Analytics
-
-
-![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)
-<p align="center">
-  <img src="(https://github.com/ryo-ma/github-profile-trophy)">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=algolia" alt="Hossein's GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-<a href="https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/ho33ein74">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ho33ein74&layout=compact&langs_count=12&theme=algolia" />
-</a>
-</p>
-
-
 ## What else about me?
 
 <details>
@@ -88,4 +63,28 @@ And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me
 <img src='https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white' alt='GitLabCI' />
 
 </details>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+
+![](https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true)
+<p align="center">
+  <img src="(https://github.com/ryo-ma/github-profile-trophy)">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=algolia" alt="Hossein's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+    <a href="https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true">
+      <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/ho33ein74">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ho33ein74&layout=compact&langs_count=12&theme=algolia" />
+    </a>
+</p>
 
