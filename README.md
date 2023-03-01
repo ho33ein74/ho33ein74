@@ -80,10 +80,3 @@ And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
 </p>
 
-
-<p align="center">
-    <a href="https://activity-graph.herokuapp.com/graph?username=ho33ein74&theme=github&area=true">
-      <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ho33ein74&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15" />
-    </a>
-</p>
-
