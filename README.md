@@ -46,7 +46,7 @@ And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,nginx&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,nginx,docker&theme=light" />
   </a>
 </p>
 
