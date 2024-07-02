@@ -78,5 +78,7 @@ And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ho33ein74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ho33ein74&theme=algolia" alt="Hossein's GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho33ein74&theme=tokyonight" />
+    
+[![Vahiwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ho33ein74&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 </p>
 
