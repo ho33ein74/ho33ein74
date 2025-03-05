@@ -56,7 +56,8 @@ And here is my personal website... <a href="https://hosseinbeiki.ir">Click on me
 
 #### My OS
 
-<img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='Windows' />
+<img src='https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white' alt='Windows' />
+<img src='https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0' alt='mac' />
 
 #### I usually learn from
 
