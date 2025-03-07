@@ -10,7 +10,7 @@
     
 <a href="https://twitter.com/Ho33einBeiki"><img align="left" alt="Hossein Beiki - Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" /></a>
 <a href="https://www.instagram.com/ho55ein74/"><img align="left" alt="Hossein's Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
-<a href="https://t.me/ho55ein74"><img align="left" alt="Hossein's Telegram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg" /></a>
+<a href="https://t.me/hoseinBeiki"><img align="left" alt="Hossein's Telegram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg" /></a>
 <a href="https://www.linkedin.com/in/hosseinbeiki/"><img align="left" alt="Hossein's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>
 <a href="https://stackoverflow.com/users/3375822/ho33ein-beiki"><img align="left" alt="Hossein's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg" /></a>
 <a href="mailto:ho33ein.b@gmail.com"><img align="left" alt="Hossein's Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
